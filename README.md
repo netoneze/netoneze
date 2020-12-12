@@ -50,4 +50,4 @@
 ### Find me around the web:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/nelson-antonio-neto-toneze-01b89352/">LinkedIn</a>.
-- 🌎 My personal <a href="https://netoneze.web.app">Website</a>(WIP).
+- 🌎 My personal <a href="https://netoneze.web.app">Website</a>. (WIP)

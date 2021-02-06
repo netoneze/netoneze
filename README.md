@@ -15,37 +15,44 @@
 
 ### Languages and Tools
 
-<br/>
+<ul>
+ <li>
+    <a href="https://www.docker.com/" target="_blank">
+        <img
+          src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Moby.png?itok=VwIPWvAs"
+          alt="docker"
+          width="20"
+          height="15"
+        />
+        Docker
+    </a>
+</li>
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+<li>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
+        <img
+          src="https://img.icons8.com/ios/452/javascript.png"
+          alt="javascript"
+          width="20"
+          height="20"
+        />
+        Javascript
+    </a>
+</li>
+
+<li>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img
+          src="https://img.icons8.com/color/344/postgreesql.png"
+          alt="postgresql"
+          width="20"
+          height="20"
+        />
+        PostgreSQL
+    </a>
+</li>
+</ul>
+
 
 ### Find me around the web:
 

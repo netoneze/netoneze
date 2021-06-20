@@ -9,8 +9,8 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working as an intern at **UTFPR - Cornélio Procópio**.
-- 🌱 Learning more about and studying: **PHP, JavaScript and DevOps**.
+- 👨‍💻 I'm currently working as a web developer intern at **UTFPR - Cornélio Procópio**.
+- 🌱 Learning more about and studying: **PHP, Java, JavaScript and DevOps**.
 - 💙 Interests: smartphones, games and all kinds of tech.
 
 ### Languages and Tools

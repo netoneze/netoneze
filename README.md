@@ -10,7 +10,7 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working as a web developer intern at **UTFPR - Cornélio Procópio**.
-- 🌱 Learning more about and studying: **PHP, Java, JavaScript and DevOps**.
+- 🌱 Learning more about and studying: **Java, PHP, JavaScript and DevOps**.
 - 💙 Interests: smartphones, games and all kinds of tech.
 
 ### Languages and Tools
@@ -57,4 +57,11 @@
 ### Find me around the web:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/nelson-antonio-neto-toneze-01b89352/">LinkedIn</a>.
-- 🌎 My personal <a href="https://netoneze.web.app">Website</a>. (WIP)
+- 🌎 My personal <a href="https://netoneze.web.app">Website</a>. (Work in Progress)
+- 📱 My Google Play developer <a href="https://play.google.com/store/apps/dev?id=6315427129709253295&hl=pt">page<a>.
+
+[![Netoneze's GitHub stats](https://github-readme-stats.vercel.app/api?username=netoneze&hide=prs,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoneze&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+

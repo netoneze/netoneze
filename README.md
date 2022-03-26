@@ -19,7 +19,7 @@
  <li>
     <a href="https://www.docker.com/" target="_blank">
         <img
-          src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Moby.png?itok=VwIPWvAs"
+          src=https://user-images.githubusercontent.com/30937322/160218318-fd756e11-6ffa-4024-8ba5-aedc96279a4b.png
           alt="docker"
           width="20"
           height="15"
@@ -31,7 +31,7 @@
 <li>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
         <img
-          src="https://img.icons8.com/ios/452/javascript.png"
+          src=https://user-images.githubusercontent.com/30937322/160218384-1a8f63d1-e1c4-4d7a-ac17-ef7ba3d04d79.png
           alt="javascript"
           width="20"
           height="20"

@@ -9,8 +9,8 @@
 
 ### Abstract
 
-- 👨‍💻 &nbsp;I'm currently working as a web developer at **StartSe**.
-- 🌱 &nbsp;Learning more about and studying: **React, Java, PHP, JavaScript and DevOps**.
+- 👨‍💻 &nbsp;I'm currently working as an iOS developer at **C6 Bank**.
+- 🌱 &nbsp;Learning more about and studying: **Swift, Java and DevOps**.
 - 💙 &nbsp;Interests: smartphones, games and all kinds of tech.
 
 ### Languages and Tools
